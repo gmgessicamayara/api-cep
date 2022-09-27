@@ -47,7 +47,7 @@ const CepSearch = () => {
 
   return (
     <div className="cep-search-container">
-      <h1 className="text-primary">Busca CEP</h1>
+      <h1 className="text-primary">Buscar CEP</h1>
       <div className="container search-container">
         <form onSubmit={handleSubmit}>
           <div className="form-container">
